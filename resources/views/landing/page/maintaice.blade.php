@@ -226,7 +226,7 @@
             <li></li>
         </ul>
         <div id="middle">
-            <h1>Website<br>Maintaice ...</h1>
+            <h1>Prepraring<br>A big surprise for you</h1>
             <div id="countdown-container">
                 <div class="countdown-box">
                		<p id="c_days">0 <br> Days</p>
