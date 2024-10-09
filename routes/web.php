@@ -14,6 +14,10 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
+    return view('landing.page.maintaice');
+});
+
+Route::get('/index', function () {
     return view('landing.page.index');
 });
 
@@ -41,16 +45,3 @@ Route::get('/gallery', function () {
     return view('landing.page.gallery');
 });
 
-// Route::get('/ybppk-pirngadi-visi&misi', function () {
-//     return view('landing.page.visi_misi');
-// });
-
-
-
-// Route::get('/ybppk-pirngadi-pengurus', function () {
-//     return view('landing.page.pengurusyayasan');
-// });
-
-// Route::get('/ybppk-pirngadi-manajerial', function () {
-//     return view('landing.page.manajerial');
-// });
