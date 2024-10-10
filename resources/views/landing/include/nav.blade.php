@@ -29,11 +29,11 @@
                     <ul class="menus-mobile">
                         <li class="active"><a href="/">Home</a></li>
                         <li class="has-child">
-                            <a href="#">About Us</a>
-                            <ul class="child">
+                            <a href="about-daycare">About Us</a>
+                            {{-- <ul class="child">
                                <li><a href="about-daycare">About Us</a></li>
                                <li><a href="guru-daycare">Teacher</a></li>
-                            </ul>
+                            </ul> --}}
                         </li>
                         <li class="has-child">
                             <a href="layanan-classes">Classes</a>
@@ -50,11 +50,8 @@
                     <ul id="menu-top-menu" class="menus">
                         <li class="active"><a href="/">Home</a></li>
                         <li class="has-child">
-                            <a href="#">About Us</a>
-                            <ul class="child">
-                               <li><a href="about-daycare">About Us</a></li>
-                               <li><a href="guru-daycare">Teacher</a></li>
-                            </ul>
+                            <a href="about-daycare">About Us</a>
+                           
                         </li>
                         <li class="has-child">
                             <a href="layanan-classes">Classes</a>

@@ -75,23 +75,121 @@ Bukti Pembayaran
                     <div class="heading-block">
                         <h2>Tentang Sekolah Kami</h2>
                     </div>
-                    <p>Sekolah kami menyediakan lingkungan yang mendukung untuk pertumbuhan holistik anak-anak. Kami memastikan bahwa setiap anak mendapatkan perhatian yang mereka butuhkan untuk berkembang sesuai potensinya.</p>
-                    <p>Dengan kurikulum yang berfokus pada pembelajaran aktif dan pengembangan karakter, kami membantu anak-anak menjadi individu yang mandiri, kreatif, dan bertanggung jawab.</p>
+                    <p> Daycare YBPPK Pirngadi telah menjadi rumah kedua bagi anak-anak usia 0-9 tahun dengan menyediakan layanan penitipan anak yang berkualitas dan penuh perhatian. Kami memahami betapa pentingnya masa-masa awal perkembangan anak, sehingga kami fokus pada menciptakan lingkungan yang aman, hangat, dan mendukung bagi setiap anak untuk belajar dan bermain.</p>
+
                 </div>
             </div>
         </div>
     </div>
     <!-- ABOUT US SECTION END -->
 
+    <div class="about-us no-padding-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 wow fadeIn">
+                    <div class="heading-block">
+                        <h2> Metode Kami</h2>
+                    </div>
+                
+                    <p class="mt-2">
+                        <strong>Metode Kami:</strong><br />
+                        Kami menggunakan pendekatan Montessori, sebuah metode pendidikan yang berfokus pada stimulasi dan pengembangan sesuai dengan tahapan pertumbuhan anak. Melalui metode ini, kami membantu setiap anak tumbuh dan berkembang secara optimal, sesuai dengan ritme dan kebutuhan unik mereka.
+                    </p>
+                    <p>
+                        Dengan memberikan kebebasan bagi anak untuk bereksplorasi, metode Montessori kami mendorong kemandirian, inisiatif, dan rasa tanggung jawab. Kami percaya bahwa anak-anak belajar paling baik ketika mereka merasa aman, didukung, dan diberikan ruang untuk berkembang secara alami sesuai dengan milestone perkembangan mereka.
+                    </p>
+                    <div class="button-normal green">
+                        <a href="about-daycare">Pelajari Lebih Lanjut Tentang Kami</a>
+                    </div>
+                    
+                </div>
+
+                <div class="about-img col-md-6 wow fadeInLeft">
+                    <img src="img/about-kindergarten.png" alt="" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="our-teacher">
+        <div class="container">
+            <div class="row">
+                
+                    <h2 class="text-center core-value">OUR </br>Core Value</h2>
+                    
+             
+                <!-- Tab panes -->
+                <div class="teacher-profile-tab col-md-4"> 
+                    <div role="tabpanel" class="teacher-desc fade in active" id="stela">
+                        <div class="heading-block">
+                            <h3>ASIH
+                            </h3>
+                            {{-- <p class="position">Daycare</p> --}}
+                        </div>
+                        
+                        <p>Melengkapi kebutuhan emosi anak dengan penyaluran kasih sayang orang-tua melalui tangan-tangan staff kompeten kami </p>
+                       
+                    </div>
+
+                    <div role="tabpanel" class="teacher-desc fade in" id="kayla">
+                        <div class="heading-block">
+                            <h3>ASUH</h3>
+                            {{-- <p class="position">Usia 1-7 Tahun</p> --}}
+                        </div>
+                        <p>Memperhatikan setiap detail kebutuhan fisik anak dari asupan gizi seimbang hingga layanan kesehatan secara rutin </p>
+                        
+                        
+                    </div>
+                    
+
+                    <div role="tabpanel" class="teacher-desc fade in" id="stefanie">
+                        <div class="heading-block">
+                            <h3>ASAH</h3>
+                            {{-- <p class="position">Usia 1-7 Tahun</p> --}}
+                        </div>
+                        <p>Mengoptimalkan tumbuh kembang anak dengan pemberian stimulasi Montessori secara intensive sejak anak O tahun (one-on-one lesson) </p>
+                        
+                        
+                    </div>
+                </div>
+                <!-- Tab Panes End -->
+                
+                <!-- Nav Tabs -->
+                <div class="teacher-photo col-md-8" role="tablist" id="planTabs">
+                    <div class="row">
+                        <ul>
+                            <li role="presentation" class="teacher-photo-box col-md-4 active">
+                                <a href="#stela" aria-controls="stela" role="tab" data-toggle="tab">
+                                    <img src="img/teacher1.jpg" alt="" />
+                                </a>
+                            </li>
+                            <li role="presentation" class="teacher-photo-box col-md-4">
+                                <a href="#kayla" aria-controls="kayla" role="tab" data-toggle="tab">
+                                    <img src="img/teacher2.jpg" alt="" />
+                                </a>
+                            </li>
+                            <li role="presentation" class="teacher-photo-box col-md-4">
+                                <a href="#stefanie" aria-controls="stefanie" role="tab" data-toggle="tab">
+                                    <img src="img/teacher3.jpg" alt="" />
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Nav Tabs End -->
+            </div>
+        </div>
+    </div>
+
     <!-- FEATURES SECTION START
     ============================================= -->
     <div class="our-features grey-background">
         <div class="container">
             <div class="heading-block wow fadeIn">
-                <h2>Our Activities</h2>
-                <h4 class="tagline">Our Best Services For Your Kids</h4>
+                <h2>OUR PROGRAM</h2>
+                <h4 class="tagline">Layanan terlengkap untuk segala kebutuhan keperluan ananda.</h4>
             </div>
-    
+
             <div class="row">
                 <div class="features">
                     <div class="feature-item custom-food col-md-4 wow fadeInUp">
@@ -99,61 +197,55 @@ Bukti Pembayaran
                             <div class="icon icon-cutlery23"></div>
                         </div>
                         <div class="feature-desc">
-                            <h4>Custom Food</h4>
-                            <p>Kami menyediakan makanan yang disesuaikan untuk memenuhi kebutuhan gizi anak-anak, memastikan mereka mendapatkan nutrisi yang tepat setiap hari.</p>
+                            <h4>Montessori Scho0l</h4>
+                            <p>Sekolah khusus untuk anak usia 0-36 Bulan. Metode Montessori memberikan kebebasan untuk berkomunikasi dan mengekplorasi lingkungan yang telah dipersiapkan</p>
                         </div>
                     </div>
-    
+
                     <div class="feature-item many-support col-md-4 wow fadeInUp">
                         <div class="feature-icon">
                             <div class="icon icon-clocks16"></div>
                         </div>
                         <div class="feature-desc">
-                            <h4>Extensive Support</h4>
-                            <p>Staf kami yang berpengalaman selalu siap memberikan dukungan kepada anak-anak dalam setiap aspek pembelajaran dan pengembangan pribadi mereka.</p>
+                            <h4>Extracuricular</h4>
+                            <p>Stimulasi tambahan sekaligus memberikan kesempatan kepada anak untuk megenali potensi dalam diri sendiri</p>
                         </div>
                     </div>
-    
+
                     <div class="feature-item bus-service col-md-4 wow fadeInUp">
                         <div class="feature-icon">
                             <div class="icon icon-school70"></div>
                         </div>
                         <div class="feature-desc">
-                            <h4>Bus Services</h4>
-                            <p>Kami menyediakan layanan antar-jemput yang aman dan nyaman untuk memastikan anak-anak sampai di sekolah dan pulang ke rumah dengan selamat.</p>
+                            <h4>Baby spa</h4>
+                            <p>Fasilitas Baby Spa rutin untuk memenuhi kebutuhan fisik dan psikososial anak menjadi lebih relax dan riang gembira </p>
                         </div>
                     </div>
-    
+
                     <div class="feature-item music-lesson col-md-4 wow fadeInUp">
                         <div class="feature-icon">
                             <div class="icon icon-headphones11"></div>
                         </div>
                         <div class="feature-desc">
-                            <h4>Music Lessons</h4>
-                            <p>Kami menawarkan kelas musik yang membantu anak-anak mengembangkan bakat musik mereka melalui pembelajaran yang interaktif dan menyenangkan.</p>
+                            <h4>Health screening</h4>
+                            <p>Memantau secara berkala kesehatan serta tumbuh kembang anak telah optimal sesuai dengan milistone</p>
                         </div>
                     </div>
-    
+
                     <div class="feature-item excursions col-md-4 wow fadeInUp">
                         <div class="feature-icon">
                             <div class="icon icon-map-1"></div>
                         </div>
                         <div class="feature-desc">
-                            <h4>Excursions</h4>
-                            <p>Anak-anak kami diberikan kesempatan untuk belajar di luar kelas melalui kegiatan ekskursi yang mendidik dan memperluas wawasan mereka.</p>
+                            <h4>LIMITED sCREEN TIME</h4>
+                            <p>Membatasi aktivitas penggunaan gadget melalui kegiatan yang memaksimalkan aktivitas fisik untuk bergerak dan berkomunikasi</p>
+                              
                         </div>
                     </div>
-    
-                    <div class="feature-item languages col-md-4 wow fadeInUp">
-                        <div class="feature-icon">
-                            <div class="icon icon-earth205"></div>
-                        </div>
-                        <div class="feature-desc">
-                            <h4>Language Classes</h4>
-                            <p>Kelas bahasa kami membantu anak-anak menjadi fasih dalam berbagai bahasa, meningkatkan keterampilan komunikasi global mereka.</p>
-                        </div>
-                    </div>
+
+                    
                 </div>
+                
             </div>
         </div>
     </div>
@@ -165,7 +257,7 @@ Bukti Pembayaran
     <div class="class-course">
         <div class="container">
             <div class="heading-block wow fadeIn">
-                <h2>Our Class and Course</h2>
+                <h2>Fun Learning Activities</h2>
             </div>
     
             <div class="row">
@@ -174,40 +266,35 @@ Bukti Pembayaran
                     <ul class="no-margin no-padding">
                         <li role="presentation" class="col-md-2 wow fadeInUp active">
                             <a href="#mathclass" aria-controls="mathclass" role="tab" data-toggle="tab" style="border-color: #f69c3b; color: #f69c3b;">
-                                Math Class
+                                Montessori 
                                 <div class="icon icon-maths5"></div>
                             </a>
                         </li>
                         <li role="presentation" class="col-md-2 wow fadeInUp">
                             <a href="#englishclass" aria-controls="englishclass" role="tab" data-toggle="tab" style="border-color: #e57978; color: #e57978;">
-                                English Class
+                                Extracuricular
                                 <div class="icon icon-earth205"></div>
                             </a>
                         </li>
                         <li role="presentation" class="col-md-2 wow fadeInUp">
                             <a href="#musicclass" aria-controls="musicclass" role="tab" data-toggle="tab" style="border-color: #59bec9; color: #59bec9;">
-                                Music Class
+                                Tummy Time
                                 <div class="icon icon-note55"></div>
                             </a>
                         </li>
-                        <li role="presentation" class="col-md-2 wow fadeInUp">
+                        <li role="presentation" class="col-md-3 wow fadeInUp">
                             <a href="#computerclass" aria-controls="computerclass" role="tab" data-toggle="tab" style="border-color: #c389ce; color: #c389ce;">
-                                Computer Class
+                                Toilet Trainning
                                 <div class="icon icon-computers10"></div>
                             </a>
                         </li>
-                        <li role="presentation" class="col-md-2 wow fadeInUp">
+                        <li role="presentation" class="col-md-3 wow fadeInUp">
                             <a href="#paintingclass" aria-controls="paintingclass" role="tab" data-toggle="tab" style="border-color: #fec02a; color: #fec02a;">
-                                Painting Class
+                                Sleep Trainning 
                                 <div class="icon icon-paint81"></div>
                             </a>
                         </li>
-                        <li role="presentation" class="col-md-2 wow fadeInUp">
-                            <a href="#sportclass" aria-controls="sportclass" role="tab" data-toggle="tab" style="border-color: #7fb881; color: #7fb881;">
-                                Sport Class
-                                <div class="icon icon-rugby-ball"></div>
-                            </a>
-                        </li>
+                       
                     </ul>
                 </div>
                 <!-- Nav Tabs End -->
@@ -219,11 +306,10 @@ Bukti Pembayaran
                             <img src="https://www.procaresoftware.com/wp-content/uploads/2023/07/teacher-sitting-at-table-with-young-school-kids-J6CQ7WR-1-scaled.jpg" alt="Math Class Image" />
                         </div>
                         <div class="col-md-6">
-                            <h3>Math Class</h3>
-                            <p class="subtitle">( 2 year course duration )</p>
+                            <h3>Montessori</h3>
+                            <p class="subtitle">( 0 - 9 Tahun )</p>
                             <div class="content">
-                                <p>Kelas Matematika ini dirancang untuk memperkuat pemahaman anak-anak dalam konsep-konsep matematika dasar hingga tingkat lanjut, melalui metode pengajaran yang interaktif dan menyenangkan.</p>
-                                <p>Siswa akan diajarkan berbagai strategi problem-solving dan cara berpikir kritis yang akan bermanfaat dalam kehidupan sehari-hari.</p>
+                                <p>Stimulasi pada 5 area Montessori: Bahasa, Matematika, Budaya, Sensori, dan Practical Life. </p>
                             </div>
                             <div class="button-normal green">
                                 <a href="#">Learn More</a>
@@ -236,9 +322,10 @@ Bukti Pembayaran
                             <img src="https://en.knockknockpreschool.com/img/class/after.jpg" alt="English Class Image" />
                         </div>
                         <div class="col-md-6">
-                            <h3>English Class</h3>
+                            <h3>Extracuricular English Class</h3>
                             <p class="subtitle">( 2 year course duration )</p>
                             <div class="content">
+                                <p>Kegiatan tambahan Bahasa lnggris, Renang, Memasak, dan Musik </p>
                                 <p>Kelas Bahasa Inggris ini membantu siswa dalam meningkatkan kemampuan berbicara, membaca, dan menulis dalam bahasa Inggris dengan penekanan pada komunikasi efektif dan keterampilan literasi.</p>
                                 <p>Program ini juga mencakup pembelajaran budaya untuk memperluas pemahaman siswa tentang konteks global dalam penggunaan bahasa Inggris.</p>
                             </div>
@@ -253,11 +340,11 @@ Bukti Pembayaran
                             <img src="https://images.squarespace-cdn.com/content/v1/591b66f920099ed6bd741796/824d6e73-3ed0-4391-8611-6f1852cdf814/music-with-preschoolers.png" alt="Music Class Image" />
                         </div>
                         <div class="col-md-6">
-                            <h3>Music Class</h3>
-                            <p class="subtitle">( 2 year course duration )</p>
+                            <h3>Tummy Time</h3>
+                            {{-- <p class="subtitle">( 2 year course duration )</p> --}}
                             <div class="content">
-                                <p>Kelas Musik ini menawarkan pengajaran dalam teori musik, instrumentasi, dan keterampilan pertunjukan, yang semuanya dirancang untuk mengembangkan apresiasi dan kemampuan musik siswa.</p>
-                                <p>Siswa akan belajar memainkan alat musik pilihan mereka serta memahami pentingnya ekspresi musikal dalam kehidupan.</p>
+                                <p>Stimulasi awal untuk meningkatkan kemampuan motorik anak </p>
+
                             </div>
                             <div class="button-normal green">
                                 <a href="#">Learn More</a>
@@ -270,11 +357,11 @@ Bukti Pembayaran
                             <img src="https://media.istockphoto.com/id/1336862668/photo/group-of-small-nursery-school-children-with-teacher-on-floor-indoors-in-classroom-using-laptop.jpg?s=612x612&w=0&k=20&c=7yhwmPGb7en8eY3udfrn7RJUMN-stc_0dYbpLe9AsrU=" alt="Computer Class Image" />
                         </div>
                         <div class="col-md-6">
-                            <h3>Computer Class</h3>
+                            <h3>Toilet Trainning</h3>
                             <p class="subtitle">( 2 year course duration )</p>
                             <div class="content">
-                                <p>Kelas Komputer ini mengajarkan dasar-dasar pemrograman, penggunaan perangkat lunak, dan keterampilan teknologi yang relevan di era digital saat ini.</p>
-                                <p>Siswa akan mendapatkan pemahaman praktis tentang dunia teknologi yang berkembang, mempersiapkan mereka untuk tantangan masa depan.</p>
+                                <p> Pembiasaan anak untuk BAK/ BAB secara teratur dan mandiri </p>
+                                
                             </div>
                             <div class="button-normal green">
                                 <a href="#">Learn More</a>
@@ -287,11 +374,12 @@ Bukti Pembayaran
                             <img src="https://childcare.extension.org/wp-content/uploads/2019/08/girl-using-tempera-paint_0.jpg" alt="Painting Class Image" />
                         </div>
                         <div class="col-md-6">
-                            <h3>Painting Class</h3>
+                            <h3>Sleep Trainning 
+                            </h3>
                             <p class="subtitle">( 2 year course duration )</p>
                             <div class="content">
-                                <p>Kelas Melukis ini memberikan siswa kesempatan untuk mengekspresikan kreativitas mereka melalui berbagai teknik melukis dan media seni, dari cat air hingga akrilik.</p>
-                                <p>Siswa akan mempelajari sejarah seni serta mengembangkan gaya pribadi mereka dalam menciptakan karya seni yang unik.</p>
+                                <p>Pembiasaan anak untuk tidur dengan waktu yang konsisten dan tanpa bantuan </p>
+                                
                             </div>
                             <div class="button-normal green">
                                 <a href="#">Learn More</a>
@@ -299,22 +387,7 @@ Bukti Pembayaran
                         </div>
                     </div>
     
-                    <div role="tabpanel" class="class-course-content fade in" id="sportclass">
-                        <div class="col-md-6">
-                            <img src="https://images.squarespace-cdn.com/content/v1/54b94c7ce4b0c2c1fae53fd7/1423855635330-SMY5LPOVNW8TL30NY9UJ/image-asset.jpeg" alt="Sport Class Image" />
-                        </div>
-                        <div class="col-md-6">
-                            <h3>Sport Class</h3>
-                            <p class="subtitle">( 2 year course duration )</p>
-                            <div class="content">
-                                <p>Kelas Olahraga ini menawarkan berbagai aktivitas fisik yang membantu meningkatkan kebugaran, koordinasi, dan keterampilan sosial siswa melalui partisipasi dalam olahraga tim dan individu.</p>
-                                <p>Siswa akan belajar pentingnya kerja sama tim, sportivitas, dan menjaga kesehatan fisik melalui latihan teratur.</p>
-                            </div>
-                            <div class="button-normal green">
-                                <a href="#">Learn More</a>
-                            </div>
-                        </div>
-                    </div>
+                  
                 </div>
                 <!-- Tab Panes End -->
             </div>
@@ -344,66 +417,68 @@ Bukti Pembayaran
 
     <!-- PRICING TABLE SECTION START
     ============================================= -->
-    <div class="pricing-table wow fadeIn">
+    <div class="single-classes clearfix">
         <div class="container">
-            <div class="pricing-item col-md-4 text-center wow fadeInUp">
-                <div class="header-area" style="background-color: #c389ce">
-                    <h3 class="title">Day Care Mentosiri Pringadi</h3>
-                    <h1 class="price">Rp1.100.000<span>/hari</span></h1>
-                </div>
-                <div class="content">
-                    <ul class="no-padding no-margin">
-                        <li>Makanan</li>
-                        <li>Snack</li>
-                        <li>Permainan</li>
-                        <li>Kursus</li>
-                    </ul>
-                    <div class="bottom-section">
-                        <div class="button-normal green">
-                            <a href="#">Daftar</a>
-                        </div>
+            <div class="row">
+                <!-- Class Gallery Start -->
+                <div class="class-gallery wow fadeIn col-md-6 clearfix">
+                    <div class="class-flexslider">
+                        <ul class="slides">
+                            <li data-thumb="{{ asset('img/cctv.png') }}">
+                                <img src="{{ asset('img/cctv.png') }}" alt="" />
+                            </li>
+                            <li data-thumb="{{ asset('img/card.png') }}">
+                                <img src="{{ asset('img/card.png') }}" alt="" />
+                            </li>
+                            <li data-thumb="{{ asset('img/security.png') }}">
+                                <img src="{{ asset('img/security.png') }}" alt="" />
+                            </li>
+                            <li data-thumb="{{ asset('img/bundapengasuh.png') }}">
+                                <img src="{{ asset('img/bundapengasuh.png') }}" alt="" />
+                            </li>
+                        </ul>
                     </div>
                 </div>
-            </div>
-    
-            <div class="pricing-item featured col-md-4 text-center wow fadeInUp">
-                <div class="header-area" style="background-color: #7fb881">
-                    <h3 class="title">Pre-School Mentosiri Pringadi</h3>
-                    <h1 class="price">Rp6.500.000<span>/bulan</span></h1>
-                </div>
-                <div class="content">
-                    <ul class="no-padding no-margin">
-                        <li>Makanan</li>
-                        <li>Snack</li>
-                        <li>Permainan</li>
-                        <li>Kursus</li>
-                    </ul>
-                    <div class="bottom-section">
-                        <div class="button-normal green">
-                            <a href="#">Daftar</a>
-                        </div>
+                <!-- Class Gallery End -->
+
+                <!-- Class Content Start -->
+                <div class="class-content wow fadeIn col-md-6 clearfix">
+                    <div class="heading-block">
+                        <h2>Our Security</h2>
                     </div>
-                </div>
-            </div>
-    
-            <div class="pricing-item col-md-4 text-center wow fadeInUp">
-                <div class="header-area" style="background-color: #f69c3b">
-                    <h3 class="title">Kindergarten Mentosiri Pringadi</h3>
-                    <h1 class="price">Rp9.500.000<span>/bulan</span></h1>
-                </div>
-                <div class="content">
-                    <ul class="no-padding no-margin">
-                        <li>Makanan</li>
-                        <li>Snack</li>
-                        <li>Permainan</li>
-                        <li>Kursus</li>
+                    <p>Memastikan keamanan dan keselamatan anak selama di sekolah melalui pemberlakuan akses penjemputan dengan "Parent Card" serta setiap ruangan yang dilengkapi CCTV </p>
+                    <p>Di daycare kami, keamanan anak-anak adalah prioritas utama. Dengan dukungan satpam yang handal dan pengasuh profesional, kami memastikan lingkungan yang aman, nyaman, dan penuh perhatian. Setiap langkah diambil dengan penuh tanggung jawab, baik dari pengawasan fisik oleh petugas keamanan maupun perhatian penuh dari pengasuh berpengalaman yang peduli akan kesejahteraan dan perkembangan anak Anda.</p>
+                    <ul class="with-icon">
+                        <li>CCTV Pada Setiap Ruangan Daycare</li>
+                        <li>Parent Card Untuk Penjemputan Anak</li>
+                        <li>Satpam yang handal</li>
+                        <li>Pengasuh profesional</li>
                     </ul>
-                    <div class="bottom-section">
-                        <div class="button-normal green">
-                            <a href="#">Daftar</a>
-                        </div>
-                    </div>
+
+                    <table class="table">
+                        <tbody>
+                            <tr>
+                                <td>Age Group :</td>
+                                <td>Usia 0 - 9 Tahun</td>
+                            </tr>
+                            <tr>
+                                <td>Class Size :</td>
+                                <td>15 Anak</td>
+                            </tr>
+                            <tr>
+                                <td>Daycare Service:</td>
+                                <td>BEBAS TENTUKAN BIAYA SESUAI PILIHAN LAYANANMU!* </td>
+                            </tr>
+                            <tr>
+                                <td>Layanan</td>
+                                <td>Senin - Jum'at, 07.00 - 18.00 WIB<br>Saptu - Minggu, 07.00 - 18.00 WIB</td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
+                <!-- Class Content End -->
+
+           
             </div>
         </div>
     </div>

@@ -34,68 +34,115 @@ Bukti Pembayaran
     
                         <div class="class-details">
                             <div class="class-desc">
-                                <h2>Daily Pack</h2>
-                                <p class="class-category">Kindergarten, Daily Pack</p>
-                                <p class="excerpt">Time: 07.00 - 17.00</p>
-                                <p class="class-date">August 16, 2015</p>
+                                <h2>Membership Program</h2>
+                                <p class="class-category">Pirngadi Montessori Ultimate Daycare</p>
+                                <p class="excerpt">Bergabunglah dalam Program Keanggotaan Pirngadi Montessori Ultimate Daycare untuk sehari penuh keseruan dan pembelajaran!</p>
+                                <p class="class-date">Jangan lewatkan kesempatan ini untuk memberikan pengalaman daycare terbaik bagi anak Anda bersama Pirngadi Montessori! 🌟</p>
                             </div>
     
-                            <div class="class-type">
-                                <div class="class-year">
-                                    <h6 class="title">Years Old</h6>
-                                    <p>1-7</p>
-                                </div>
-    
-                                <div class="class-size">
-                                    <h6 class="title">Class Size</h6>
-                                    <p>25</p>
-                                </div>
-    
-                                <div class="class-price">
-                                    <h3>Rp.200.000<span>day</span></h3>
-                                </div>
-                            </div>
+                          
                         </div>
                     </div>
                 </a>
             </div>
-    
-            <div class="classes-wrapper wow fadeInUp">
-                <a href="#">
-                    <div class="class-item" style="background-color: #fec02a;">
-                        <div class="class-img">
-                            <img src="img/classes/classes2.jpg" alt="" />
-                            <div class="overlay dark"></div>
-                            <span><i class="fa fa-plus"></i></span>
-                        </div>
-    
-                        <div class="class-details">
-                            <div class="class-desc">
-                                <h2>Monthly Plan</h2>
-                                <p class="class-category">Kindergarten, Monthly</p>
-                                <p class="excerpt">Time: 07.00 - 17.00</p>
-                                <p class="class-date">August 16, 2015</p>
-                            </div>
-    
-                            <div class="class-type">
-                                <div class="class-year">
-                                    <h6 class="title">Years Old</h6>
-                                    <p>6-8</p>
+
+            <div class="row">
+                <div class="classes">
+                    <div class="col-md-6 wow fadeInUp">
+                        <a href="#">
+                            <div class="class-item" style="background-color: #e57978;">
+                                <div class="class-img pull-right">
+                                    <img src="img/classes/classes1.jpg" alt="" />
+                                    <div class="overlay dark"></div>
+                                    <span><i class="fa fa-plus"></i></span>
                                 </div>
-    
-                                <div class="class-size">
-                                    <h6 class="title">Class Size</h6>
-                                    <p>20</p>
-                                </div>
-    
-                                <div class="class-price">
-                                    <h3>Rp.950.000<span>Monthly</span></h3>
+
+                                <div class="class-details">
+                                    <div class="class-desc">
+                                        <h4>Layanan Penuh </h4>
+                                        <p class="class-category">(Full-Day Service)</p>
+                                        <p class="class-category">Durasi Waktu : 07.00-18.00</p>
+                                        <p class="class-category">Hari : Senin - Jumat  </p>
+                                      
+                                    </div>
+
+                                   
                                 </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
-                </a>
+
+                    <div class="col-md-6 wow fadeInUp">
+                        <a href="#">
+                            <div class="class-item" style="background-color: #59bec9;">
+                                <div class="class-img pull-right">
+                                    <img src="img/classes/classes2.jpg" alt="" />
+                                    <div class="overlay dark"></div>
+                                    <span><i class="fa fa-plus"></i></span>
+                                </div>
+
+                                <div class="class-details">
+                                    <div class="class-desc">
+                                        <h4>Layanan Setengah Hari </h4>
+                                        <p class="class-category">(Half-Day)</p>
+                                        <p class="class-category">Durasi Waktu : 07.00-13.00 </p>
+                                        <p class="class-category">Hari : Senin - Jumat </p>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-md-6 wow fadeInUp">
+                        <a href="#">
+                            <div class="class-item" style="background-color: #59bec9;">
+                                <div class="class-img pull-right">
+                                    <img src="img/classes/classes3.jpg" alt="" />
+                                    <div class="overlay dark"></div>
+                                    <span><i class="fa fa-plus"></i></span>
+                                </div>
+
+                                <div class="class-details">
+                                    <div class="class-desc">
+                                        <h4>Layanan Setengah Hari </h4>
+                                        <p class="class-category">(Half-Day)</p>
+                                        <p class="class-category">Durasi Waktu : 12.00-18.00 </p>
+                                        <p class="class-category">Hari : Senin - Jumat </p>
+                                    </div>
+
+                                 
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-md-6 wow fadeInUp">
+                        <a href="#">
+                            <div class="class-item" style="background-color: #7fb881;">
+                                <div class="class-img pull-right">
+                                    <img src="img/classes/classes4.jpg" alt="" />
+                                    <div class="overlay dark"></div>
+                                    <span><i class="fa fa-plus"></i></span>
+                                </div>
+
+                                <div class="class-details">
+                                    <div class="class-desc">
+                                        <h4>Layanan Kombinasi Pagi-Sore </h4>
+                                        <p class="class-category">(Half-Day)</p>
+                                        <p class="class-category">Durasi Waktu : </br> 07.00-10.00 & 15.00-18.00 </p>
+                                        <p class="class-category">Hari : Senin - Jumat</p>
+                                    </div>
+
+                                
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
             </div>
+    
+    
     
             <div class="classes-wrapper wow fadeInUp">
                 <a href="#">
@@ -108,68 +155,114 @@ Bukti Pembayaran
     
                         <div class="class-details">
                             <div class="class-desc">
-                                <h2>Annual Package</h2>
-                                <p class="class-category">Kindergarten, Primary</p>
-                                <p class="excerpt">Time: 07.00 - 17.00</p>
-                                <p class="class-date">August 16, 2015</p>
+                                <h2>Non-Membership Daycare Program</h2>
+                                <p class="class-category">Pirngadi Montessori Ultimate Daycare</p>
+                                <p class="excerpt">Ikuti program Non-Membership Pirngadi Montessori Ultimate Daycare untuk memberikan pengalaman pembelajaran dan keseruan sepanjang hari tanpa perlu menjadi anggota!</p>
+                                <p class="class-date">Jangan lewatkan kesempatan ini untuk memberikan pengalaman daycare terbaik bagi anak Anda bersama Pirngadi Montessori! 🌟</p>
                             </div>
     
-                            <div class="class-type">
-                                <div class="class-year">
-                                    <h6 class="title">Years Old</h6>
-                                    <p>6-7</p>
-                                </div>
-    
-                                <div class="class-size">
-                                    <h6 class="title">Class Size</h6>
-                                    <p>10</p>
-                                </div>
-    
-                                <div class="class-price">
-                                    <p>Rp.9.690.000<span></span></p>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </a>
             </div>
-    
-            <div class="classes-wrapper wow fadeInUp">
-                <a href="#">
-                    <div class="class-item" style="background-color: #7fb881;">
-                        <div class="class-img">
-                            <img src="img/classes/classes4.jpg" alt="" />
-                            <div class="overlay dark"></div>
-                            <span><i class="fa fa-plus"></i></span>
-                        </div>
-    
-                        <div class="class-details">
-                            <div class="class-desc">
-                                <h2>Class ABK</h2>
-                                <p class="class-category">Spesial, Class</p>
-                                <p class="excerpt">Time: 07.00 - 17.00</p>
-                                <p class="class-date">August 16, 2015</p>
-                            </div>
-    
-                            <div class="class-type">
-                                <div class="class-year">
-                                    <h6 class="title">Years Old</h6>
-                                    <p>2-8</p>
+
+            <div class="row">
+                <div class="classes">
+                    <div class="col-md-6 wow fadeInUp">
+                        <a href="#">
+                            <div class="class-item" style="background-color: #e57978;">
+                                <div class="class-img pull-right">
+                                    <img src="img/classes/classes1.jpg" alt="" />
+                                    <div class="overlay dark"></div>
+                                    <span><i class="fa fa-plus"></i></span>
                                 </div>
-    
-                                <div class="class-size">
-                                    <h6 class="title">Class Size</h6>
-                                    <p>25</p>
-                                </div>
-    
-                                <div class="class-price">
-                                    <h3><span></span></h3>
+
+                                <div class="class-details">
+                                    <div class="class-desc">
+                                        <h4>Layanan Penuh </h4>
+                                        <p class="class-category"> (Drop-In Full Day)</p>
+                                        <p class="class-category">Durasi Waktu : 07.00-18.00</p>
+                                        <p class="class-category">Hari : Senin - Jumat  </p>
+                                      
+                                    </div>
+
+                                   
                                 </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
-                </a>
+
+                    <div class="col-md-6 wow fadeInUp">
+                        <a href="#">
+                            <div class="class-item" style="background-color: #59bec9;">
+                                <div class="class-img pull-right">
+                                    <img src="img/classes/classes2.jpg" alt="" />
+                                    <div class="overlay dark"></div>
+                                    <span><i class="fa fa-plus"></i></span>
+                                </div>
+
+                                <div class="class-details">
+                                    <div class="class-desc">
+                                        <h4>Layanan Setengah Hari </h4>
+                                        <p class="class-category"> (Drop-In Full Day)</p>
+                                        <p class="class-category">Durasi Waktu : 07.00-13.00 </p>
+                                        <p class="class-category">Hari : Senin - Jumat </p>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-md-6 wow fadeInUp">
+                        <a href="#">
+                            <div class="class-item" style="background-color: #59bec9;">
+                                <div class="class-img pull-right">
+                                    <img src="img/classes/classes3.jpg" alt="" />
+                                    <div class="overlay dark"></div>
+                                    <span><i class="fa fa-plus"></i></span>
+                                </div>
+
+                                <div class="class-details">
+                                    <div class="class-desc">
+                                        <h4>Layanan Setengah Hari </h4>
+                                        <p class="class-category"> (Drop-In Full Day)</p>
+                                        <p class="class-category">Durasi Waktu : 12.00-18.00 </p>
+                                        <p class="class-category">Hari : Senin - Jumat </p>
+                                    </div>
+
+                                 
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-md-6 wow fadeInUp">
+                        <a href="#">
+                            <div class="class-item" style="background-color: #7fb881;">
+                                <div class="class-img pull-right">
+                                    <img src="img/classes/classes4.jpg" alt="" />
+                                    <div class="overlay dark"></div>
+                                    <span><i class="fa fa-plus"></i></span>
+                                </div>
+
+                                <div class="class-details">
+                                    <div class="class-desc">
+                                        <h4>Layanan Khusus  </h4>
+                                        <p class="class-category">(Weekend/Holiday)</p>
+                                        <p class="class-category">Durasi Waktu : </br> Fleksibel (max 10 jam)                                        </p>
+                                        <p class="class-category">Hari : Akhir pekan atau hari libur                                        </p>
+                                    </div>
+
+                                
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
             </div>
+    
+           
     
         </div>
     </div>
