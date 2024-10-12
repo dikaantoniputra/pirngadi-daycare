@@ -29,17 +29,17 @@ Bukti Pembayaran
                     <div class="flex-content vertical-center">
                         <div class="container">
                             <div class="caption wow fadeInLeft">
-                                <h3 style="color: #ffffff; font-weight: 500;"> The Best Daycare For Your Child</h3>
+                                <h3 style="color: #ffffff; font-weight: 500;"> Before three, the function</h3>
                             </div>
                             <div class="caption wow fadeInUp">
-                                <h1 style="color: #ffffff; font-size: 46px;">Perfect themes for your<br>Daycare Pirngadi</h1>
+                                <h1 style="color: #ffffff; font-size: 46px;">are being CREATED<br>after three they DEVELOP</h1>
                             </div> 
                             {{-- <div class="caption wow fadeIn">
                                 <p style="color: #ffffff; font-size: 18px;">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium<br/>doloremque laudantium, totam rem aperiam.</p>
                             </div> --}}
                             <div class="caption wow fadeInUp">
                                 <div class="button-normal white">
-                                    <a href="#">Join Now</a>
+                                    <a href="https://wa.me/6281803977779?text=Halo%20saya%20ingin%20bertanya%20mengenai%20pendaftaran%20Daycare%20Montessori%20Pirngadi.">Join Now</a>
                                 </div>
                             </div>
                         </div>
@@ -51,7 +51,7 @@ Bukti Pembayaran
                     <div class="flex-content vertical-center">
                         <div class="container">
                             <div class="caption wow fadeInLeft">
-                                <h3 style="color: #ffffff; font-weight: 500;">Before three, the function</h3>
+                                <h3 style="color: #ffffff; font-weight: 500;"> Before three, the function</h3>
                             </div>
                             <div class="caption wow fadeInUp">
                                 <h1 style="color: #ffffff; font-size: 46px;">are being CREATED<br>after three they DEVELOP</h1>
@@ -181,7 +181,7 @@ Bukti Pembayaran
                                         </tr>
                                         <tr>
                                             <td>Layanan</td>
-                                            <td>Senin - Jum'at, 07.00 - 18.00 WIB<br>Saptu - Minggu, 07.00 - 18.00 WIB</td>
+                                            <td>Senin - Jum'at, 07.00 - 18.00 WIB<br>Sabtu - Minggu, 07.00 - 18.00 WIB</td>
                                         </tr>
                                     </tbody>
                                 </table>

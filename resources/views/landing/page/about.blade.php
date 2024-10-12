@@ -354,7 +354,7 @@ Bukti Pembayaran
     
                     <div role="tabpanel" class="class-course-content fade in" id="computerclass">
                         <div class="col-md-6">
-                            <img src="https://media.istockphoto.com/id/1336862668/photo/group-of-small-nursery-school-children-with-teacher-on-floor-indoors-in-classroom-using-laptop.jpg?s=612x612&w=0&k=20&c=7yhwmPGb7en8eY3udfrn7RJUMN-stc_0dYbpLe9AsrU=" alt="Computer Class Image" />
+                            <img src="img/toilet-trainer.png" alt="Computer Class Image" />
                         </div>
                         <div class="col-md-6">
                             <h3>Toilet Trainning</h3>
@@ -371,7 +371,7 @@ Bukti Pembayaran
     
                     <div role="tabpanel" class="class-course-content fade in" id="paintingclass">
                         <div class="col-md-6">
-                            <img src="https://childcare.extension.org/wp-content/uploads/2019/08/girl-using-tempera-paint_0.jpg" alt="Painting Class Image" />
+                            <img src="https://www.newtonbaby.com/cdn/shop/articles/Sleep_Training_1.png?v=1611253986" alt="Painting Class Image" />
                         </div>
                         <div class="col-md-6">
                             <h3>Sleep Trainning 
@@ -413,10 +413,7 @@ Bukti Pembayaran
             </div>
         </div>
     </div>
-    <!-- BANNER SECTION END -->
-
-    <!-- PRICING TABLE SECTION START
-    ============================================= -->
+  
     <div class="single-classes clearfix">
         <div class="container">
             <div class="row">
@@ -471,7 +468,7 @@ Bukti Pembayaran
                             </tr>
                             <tr>
                                 <td>Layanan</td>
-                                <td>Senin - Jum'at, 07.00 - 18.00 WIB<br>Saptu - Minggu, 07.00 - 18.00 WIB</td>
+                                <td>Senin - Jum'at, 07.00 - 18.00 WIB<br>Sabtu - Minggu, 07.00 - 18.00 WIB</td>
                             </tr>
                         </tbody>
                     </table>
@@ -482,8 +479,7 @@ Bukti Pembayaran
             </div>
         </div>
     </div>
-    
-    <!-- PRICING TABLE SECTION END -->
+
 
 </section>
 @endsection

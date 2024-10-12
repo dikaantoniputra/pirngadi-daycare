@@ -42,7 +42,7 @@
                         <p>Daftarkan anak Anda di Daycare Montesori Pirngadi hari ini dan beri mereka pengalaman belajar yang luar biasa dalam lingkungan yang penuh kasih sayang. Hubungi kami untuk informasi lebih lanjut mengenai pendaftaran dan jadwal kelas.</p>
 
                         <div class="button-normal white">
-                            <a href="#">Daftar Sekarang</a>
+                            <a href="https://wa.me/6281803977779?text=Halo%20Saya%20ingin%20mendapatkan%20informasi" >Daftar Sekarang</a>
                         </div>
                     </div>
                 </div>

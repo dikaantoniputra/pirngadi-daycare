@@ -13,11 +13,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('landing.page.maintaice');
-});
+// Route::get('/', function () {
+//     return view('landing.page.maintaice');
+// });
 
-Route::get('/index', function () {
+Route::get('/', function () {
     return view('landing.page.index');
 });
 
